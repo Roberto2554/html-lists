@@ -1,2 +1,2 @@
 # html-lists
-HTML Lists assigment from The Odin Project- HTML Foundations
+HTML Lists assigment from The Odin Project - HTML Foundations
